@@ -13,4 +13,4 @@
 平台内容丰富，从经典影片到最新热门作品，应有尽有。最重要的是，这些平台通过广告支持，让你不需要支付任何费用即可观看。
 此外，这些平台注重隐私保护，使用HTTPS加密技术，确保你的个人信息安全。界面简洁，操作便捷，强大的搜索功能帮助你快速找到喜爱的影片。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/ff20250704/ff09 ）</span>
